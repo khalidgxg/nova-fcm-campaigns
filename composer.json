@@ -10,7 +10,7 @@
     "license": "MIT",
     "require": {
         "php": ">=7.1.0||>=8.0",
-        "laravel-notification-channels/fcm": "^1.6"
+        "coreproc/laravel-notification-channel-fcm": "^1.5"
 
     },
     "autoload": {
