@@ -11,7 +11,7 @@
     "require": {
         "php": ">=7.1.0||>=8.0",
         "guzzlehttp/guzzle": "^6.5||^7.0.1",
-        "coreproc/laravel-notification-channel-fcm": "^1.0"
+        "laravel-notification-channels/fcm": "^1.6"
     },
     "autoload": {
         "psr-4": {
