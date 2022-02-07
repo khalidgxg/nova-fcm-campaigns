@@ -10,8 +10,8 @@
     "license": "MIT",
     "require": {
         "php": ">=7.1.0||>=8.0",
-        "guzzlehttp/guzzle": "^6.5||^7.0.1",
-        "laravel-notification-channels/fcm": "^1.6"
+        "guzzlehttp/guzzle": "^6.5||^7.0.1"
+
     },
     "autoload": {
         "psr-4": {
